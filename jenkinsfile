@@ -1,0 +1,7 @@
+pipeline {
+agnet {
+stages {
+ stage {
+    step {
+    scriptd()
+    }}}}
